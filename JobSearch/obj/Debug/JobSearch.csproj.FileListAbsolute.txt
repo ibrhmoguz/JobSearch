@@ -1,0 +1,7 @@
+C:\GitHubProj\JobSearch\JobSearch\bin\Debug\JobSearch.exe.config
+C:\GitHubProj\JobSearch\JobSearch\bin\Debug\JobSearch.exe
+C:\GitHubProj\JobSearch\JobSearch\bin\Debug\JobSearch.pdb
+C:\GitHubProj\JobSearch\JobSearch\obj\Debug\JobSearch.csprojAssemblyReference.cache
+C:\GitHubProj\JobSearch\JobSearch\obj\Debug\JobSearch.csproj.CoreCompileInputs.cache
+C:\GitHubProj\JobSearch\JobSearch\obj\Debug\JobSearch.exe
+C:\GitHubProj\JobSearch\JobSearch\obj\Debug\JobSearch.pdb
